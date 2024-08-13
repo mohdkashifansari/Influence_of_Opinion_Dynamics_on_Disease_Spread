@@ -9,7 +9,7 @@ This project aims to bridge the gap between epidemiological modeling and social 
   
 - **Markov Chains & Transition Matrices**: The project uses Markov chains and transition matrices to simulate the transitions between different states (Susceptible, Infected, Recovered) while factoring in changes in public opinion.
   
-- **Parameter Optimization**: We applied optimization techniques to fit the model parameters with real-world data. This ensures that our simulations closely mirror actual epidemic scenarios, improving the accuracy and applicability of the model.
+- **Parameter Optimization**: We applied optimization techniques to fit the model parameters. This ensures that our simulations closely mirror actual epidemic scenarios, improving the accuracy and applicability of the model.
   
 
 ### Conclusion:
