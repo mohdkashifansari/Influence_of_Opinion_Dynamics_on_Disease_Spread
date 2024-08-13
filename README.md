@@ -1,4 +1,4 @@
-#Influence Of Opynion Dynamics on Disease Spread
+# Influence Of Opynion Dynamics on Disease Spread
 
 in this project we have seen so far that how different opinion can influence the infection spread rate, more the fear impying opnions having  negative values will take more precautions and as the opinion values increases to 0 (implying fearlessness) then my infection will be the highest, we do so  by defining deífferential equations and then solve them using Numerical Analysis methods. the plotting curves using matplotlib. 
 
