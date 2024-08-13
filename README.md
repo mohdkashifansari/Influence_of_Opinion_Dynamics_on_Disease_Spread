@@ -1,6 +1,6 @@
 # Project Overview
 
-## Exploring the Influence of Opinion Dynamics on Infectious Disease Spread
+## Exploring the Influence of Opinion Dynamics on Infectious Diseases Spread
 
 This project aims to bridge the gap between epidemiological modeling and social behavior analysis by extending the classic SIR (Susceptible-Infected-Recovered) model. Traditionally, the SIR model divides the population into three categories to predict the course of an epidemic. However, this model does not account for the influence of public opinion and social behavior, which are critical in understanding real-world disease spread.
 
