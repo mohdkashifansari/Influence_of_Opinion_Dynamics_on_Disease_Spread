@@ -11,7 +11,6 @@ This project aims to bridge the gap between epidemiological modeling and social 
   
 - **Parameter Optimization**: We applied optimization techniques to fit the model parameters with real-world data. This ensures that our simulations closely mirror actual epidemic scenarios, improving the accuracy and applicability of the model.
   
-- **Case Study on COVID-19**: The model was tested using data from the COVID-19 pandemic, demonstrating how changes in public behavior—driven by evolving opinions—significantly impact the spread of the virus.
 
 ### Conclusion:
 The project underscores the importance of integrating social dynamics into epidemiological models. By considering how public opinion can influence individual behavior, we provide a more holistic view of disease spread, offering valuable insights for public health strategies in managing pandemics.
